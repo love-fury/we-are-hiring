@@ -1,10 +1,10 @@
-## Python 백엔드, Swift iOS 엔지니어 찾습니다!
+## Python / Java 백엔드, Swift iOS 엔지니어 찾습니다!
 
 ![](https://carpedm30.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fdb2f0ab2-59c6-4eb1-ba0f-e873fbe781f7%2F525406fc-505a-46da-a3c9-03acd788e765%2FScreenshot_2024-12-31_at_2.19.59_PM.png?table=block&id=16d60168-8297-801e-8924-ed246c5e7d81&spaceId=db2f0ab2-59c6-4eb1-ba0f-e873fbe781f7&width=2000&userId=&cache=v2)
 
 저희는 세상에서 성능이 가장 좋은 가상 피팅 AI 모델을 개발해 왔고
 
-지난 2주 동안 MVP를 개발해 두 개의 영상으로 1주일 만에 8,000명이 넘는 waiting list를 모았습니다.
+지난 2주 동안 MVP를 개발했고, 두 개의 영상으로 출 시 전 1주일 만에 8,000명이 넘는 waiting list를 모았습니다.
 
 제품 소개: [링크](http://carpedm30.notion.site)
 
